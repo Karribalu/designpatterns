@@ -19,6 +19,7 @@ public class EditorHistory {
         if (!forwardHistory.isEmpty()) {
             editor.restore(forwardHistory.pop());
         }
+
     }
 
     public void save(TextEditor editor) {
