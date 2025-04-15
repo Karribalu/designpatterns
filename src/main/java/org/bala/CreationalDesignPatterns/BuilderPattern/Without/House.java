@@ -10,12 +10,4 @@ public class House {
         this.hasGarden = hasGarden;
     }
 
-    @Override
-    public String toString() {
-        return "House{" +
-                "hasGarden=" + hasGarden +
-                ", hasSwimmingPool=" + hasSwimmingPool +
-                ", roofType='" + roofType + '\'' +
-                '}';
-    }
 }
