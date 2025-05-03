@@ -1,0 +1,4 @@
+2025-04-23T00:42:19.883310 | INFO | Hello I am info
+2025-04-23T00:42:19.888119 | DEBUG | Hello I am debug
+2025-04-23T00:42:19.888294 | ERROR | Hello I am Error!
+2025-04-23T00:42:19.888374 | FATAL | Hello I am fatal
